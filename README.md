@@ -45,8 +45,7 @@ Git · Docker · Linux
 ## 🧠 Featured Projects
 
 | Project | Description | Tech Stack |
-|----------|--------------|------------|
-|Navigating Terminal on window | Folder Creation and some basic skils | Gitbash
+-|Navigating Terminal on window | Folder Creation and some basic skils | Gitbash
 
 ## 🎯 Current Focus
 
@@ -57,6 +56,6 @@ Git · Docker · Linux
 
   ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/[Adebayo Ismail]/)  
+- [LinkedIn](http://www.linkedin.com/in/adebayo-ismail-273a2b339)  
 - [Email](mailto:[adebayoismail377@gmail.com]
 
