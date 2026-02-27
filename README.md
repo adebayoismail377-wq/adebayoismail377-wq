@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm [Adebayo Ismail Ajani]
+# I'm [Adebayo Ajani Ismail]
 
 ### 🚀 ALX Backend Engineer | Passionate About Building Reliable, Scalable Systems
 
