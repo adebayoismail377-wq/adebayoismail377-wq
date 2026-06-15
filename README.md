@@ -7,7 +7,7 @@
 
 ## 🌱 About Me
 
-I'm a **Backend Engineer**and i got certified through the **ALX Software Engineering Program**.  
+I'm a **Backend Engineer** and i got certified through the **ALX Software Engineering Program**.  
 My journey into tech began with a curiosity about *why some software products experience glitches* — this curiosity evolved into a passion for **building resilient, well-architected systems** that perform flawlessly under pressure.
 
 💡 **My Mission:** To grow into a **Senior or Principal Engineer**, capable of designing high-performance backend infrastructures that drive real-world impact.
